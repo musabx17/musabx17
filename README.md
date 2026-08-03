@@ -1,7 +1,12 @@
 💫 About Me:
-# Hi there, I'm Musab Ahmed! 👋 <br><br>### 🚀 Frontend Web Developer & Computer Science Student<br><br>I build responsive, high-performance web applications using modern JavaScript frameworks and clean UI design.<br><br>---<br><br>### 💻 Tech Stack & Tools<br><br>* **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3<br>* **Frameworks & Libraries:** React.js, Tailwind CSS, Bootstrap, Framer Motion<br>* **Tools & Workflow:** Git, GitHub, VS Code, Figma, Vite<br>* **Currently Learning:** Cybersecurity, Kali Linux & Advanced UI Mechanics<br><br>---<br><br>### 💼 What I Do<br><br>* ⚡ **Custom Web Development:** Responsive landing pages, e-commerce storefronts, and web applications.<br>* 🎨 **UI/UX Modernization:** Upgrading outdated business websites into animated, high-converting digital setups.<br>* 📲 **WhatsApp & API Integrations:** Direct 1-click ordering systems for local and international retail/restaurant businesses.<br><br>---<br><br>### 🌐 Connect & Work With Me<br><br>* 📁 **Portfolio:** [musabx17.github.io/UpdatedPortfolio](https://musabx17.github.io/UpdatedPortfolio/)<br>* 💼 **Open for:** Freelance projects, frontend contract work, and web design redesigns.
+# Hi there, I'm Musab Ahmed! 👋
 
+* 🚀 **Role:** Computer Science Student & Frontend Web Developer
+* 💻 **Focus:** I build responsive, clean, and high-performance websites using modern web technologies.
+* 🛡️ **Currently Learning:** Cybersecurity, Kali Linux, and network fundamentals.
+* 📁 **Portfolio:** [musabx17.github.io/UpdatedPortfolio](https://musabx17.github.io/UpdatedPortfolio/)
 
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/musabx17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/musab-ahmed-08a27a325) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@musabx17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:musabahmed1299@gmail.com) 
 
